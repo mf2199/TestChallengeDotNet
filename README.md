@@ -9,6 +9,6 @@ The purpose of this test is to picture your capabilities as a C#/.NET developer.
 
 - Fork this project, make your changes, then send us back the url.
 
-This test should normally take no more than a few hours. You WILL be given another (quite different) test if you interview here, so please don't try cheating.
+This test should normally take no more than a few hours. You may be given another (quite different) test if you interview here, so please do not try cheating.
 
 Good luck!
