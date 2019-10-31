@@ -1,4 +1,4 @@
-TestChallengeDotnet - a test challenge for interview follow-ups
+TestChallengeDotNet - a test challenge for interview follow-ups
 ===============================================================
 
 The purpose of this test is to picture your capabilities as a C#/.NET developer. The main goal is spelled out in the Main method of Program.cs file.
